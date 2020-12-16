@@ -1,6 +1,6 @@
 # Recursividad | Tail Recursion | Iteración
 
-How to on needed packages to run code in MacOs: [https://github.com/camiladlsa/PROG2TAR1.git]
+How-to on needed packages to run code in MacOs: [https://github.com/camiladlsa/PROG2TAR1.git]
 
 ## How TO RUN PAP.py 
 
